@@ -1,5 +1,8 @@
 body {
-background = "rgb(247, 251, 254) url('http://virtualabs.tecnico.ulisboa.pt/virtual/virtualtt.jpg') no-repeat center top";
+  background = "rgb(247, 251, 254)center top";
+  background:url('http://virtualabs.tecnico.ulisboa.pt/virtual/virtualtt.jpg') center;
+  background-repeat: no-repeat;
+  
 }
 p {
                 font-family: sans-serif;

@@ -19,6 +19,6 @@ h1, h2 {
   border-bottom: 1px solid rgb(230, 230, 230);
   padding: 3px;
 }
-h1:hover, h2:hover {
+/*-- h1:hover, h2:hover {
   background-color: rgb(240, 250, 250);
-}
+}*/

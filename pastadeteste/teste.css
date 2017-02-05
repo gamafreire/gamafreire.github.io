@@ -3,6 +3,7 @@ body {
   background-color = "rgb(247, 251, 254)";
   background:url(/imgs/virtualtt.jpg) center top;
   background-repeat: no-repeat;
+  background-clip: content-box;
   
 }
 p {

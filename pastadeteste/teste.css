@@ -1,1 +1,23 @@
-teste
+body {
+  background-color = "rgb(247, 251, 254)";
+  background:url(imgs/virtualtt.jpg) center top;
+  background-repeat: no-repeat;
+  
+}
+p {
+                font-family: sans-serif;
+            }
+            
+            img {
+                max-width: 150px;
+            }
+            
+            h1, h2 {
+                font-family: fantasy;
+                border-bottom: 1px solid rgb(230, 230, 230);
+                padding: 3px;
+            }
+            
+            h1:hover, h2:hover {
+                background-color: rgb(240, 250, 250);
+            }

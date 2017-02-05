@@ -1,6 +1,6 @@
 body {
   border: 3px groove blue;
-  border-radius: 5px;
+  border-radius: 15px;
   background-color = "rgb(247, 251, 254)";
   background:url(/imgs/virtualtt.jpg) center top;
   background-repeat: no-repeat;

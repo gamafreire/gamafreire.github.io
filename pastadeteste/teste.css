@@ -1,5 +1,5 @@
 body {
-  border: 3px blue;
+  border: 3px dotted blue;
   background-color = "rgb(247, 251, 254)";
   background:url(/imgs/virtualtt.jpg) center top;
   background-repeat: no-repeat;
